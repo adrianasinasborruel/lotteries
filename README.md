@@ -1,7 +1,7 @@
 # Lotteries
 Process flow diagram for Simple, Recurring, RNG (Random Number Generator), and Powerball using Ethereum and Hyperledger.
 
-## Ethereum Process Flow Diagram
+## Ethereum Full Stack Process Flow Diagram
 ### Directory:
 <pre>
 ethereum-lotteries-v2/
@@ -33,7 +33,7 @@ ethereum-lotteries-v2/
 <br />
 <br />
 
-## Hyperledger Process Flow Diagram
+## Hyperledger Full Stack Process Flow Diagram
 ### Directory:
 <pre>
 hyperledger-lotteries-v1/
